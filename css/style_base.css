@@ -63,7 +63,7 @@ nav ul li a:before{
     /* transition: ; */
 }
 nav ul li a:hover::before{
-    transform: scaleX(1);  /* Hacer que la línea se muestre y se extienda al 100% en hover 
+    transform: scaleX(1);  /* para que  la línea se muestre y se extienda 
     /* ancho final */
 }
 
